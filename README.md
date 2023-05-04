@@ -20,7 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikjaiswal31&show_icons=true&locale=en&layout=compact" alt="ritikjaiswal31" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikjaiswal31&show_icons=true&locale=en" alt="ritikjaiswal31" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikjaiswal31&" alt="ritikjaiswal31" /></p>
 
