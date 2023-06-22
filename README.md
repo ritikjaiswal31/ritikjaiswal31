@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Jaiswal</h1>
-<h3 align="center">Cloud Computing and DevOps Enthusiast</h3>
+<h3 align="center">Cloud Computing and DevOps Enthusiast | B.Tech CSE from UPES, Dehradun</h3>
 
 - 🌱 I’m currently learning **Flutter | Firebase | React Native**
 
