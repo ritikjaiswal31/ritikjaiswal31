@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Fascinating Projects**
 
-- 💬 Ask me about **C++ | Jenkins | Docker | Splunk**
+- 💬 Ask me about **C++ | Agile Methadologies | Jenkins | Docker**
 
 - ⚡ Fun fact **Cricket Enthusiast**
 
