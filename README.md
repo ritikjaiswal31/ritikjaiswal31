@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Summer Internship Trainee at PwC**
 
-- 🌱 I’m currently learning **OpenStack | Flutter | Firebase | Dart | JavaScript**
+- 🌱 I’m currently learning **OpenStack | Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Fascinating Projects**
 
