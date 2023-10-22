@@ -1,5 +1,5 @@
 <h1 align="center">Greetings Everyone 👋, My name is Ritik Jaiswal</h1>
-<h3 align="center">Agile | Cloud Computing and DevOps Enthusiast | B.Tech CSE (CCVT) from UPES, Dehradun, Uttarakhand</h3>
+<h3 align="center">Cloud Computing and Virtualization Technology | DevOps | B.Tech CSE (CCVT) from UPES, Dehradun, Uttarakhand</h3>
 
 - 🔭 I’m currently working as **Summer Internship Trainee at PwC**
 
