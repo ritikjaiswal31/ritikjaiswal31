@@ -1,4 +1,4 @@
-<h1 align="center">Greetings Everyone 👋, My name is Ritik Jaiswal</h1>
+<h1 align="center">Greetings Everyone 👋, I am Ritik Jaiswal</h1>
 <h3 align="center">Cloud Computing & Virtualization Technology | DevOps | B.Tech CSE from UPES, Dehradun, Uttarakhand</h3>
 
 - 🔭 I have done my **Summer Internship Trainee at PwC - Analytics Insights Launchpad Program**
