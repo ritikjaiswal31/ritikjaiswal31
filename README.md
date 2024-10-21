@@ -3,11 +3,11 @@
 
 - 🔭 I have done my **Summer Internship Trainee at PwC - Analytics Insights Launchpad Program**
 
-- 🌱 I’m currently learning **Amazon Web Services | OpenStack | Data Structures and Algorithms**
+- 🌱 I’m currently learning **Amazon Web Services | MySQL**
 
 - 👯 I’m looking to collaborate on **Fascinating Projects**
 
-- 💬 Ask me about **C++ | Agile Methadologies | Jenkins | Docker**
+- 💬 Ask me about **Agile Methadologies | Jenkins | Docker**
 
 - ⚡ Fun fact **Cricket Enthusiast**
 
