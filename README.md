@@ -3,7 +3,7 @@
 
 - 🔭 I have done my **Summer Internship Trainee at PwC - Analytics Insights Launchpad Program**
 
-- 🌱 I’m currently learning **Amazon Web Services | MySQL**
+- 🌱 I’m currently learning **Tableau | Alteryx | Cloud Server Administration | Amazon Web Services**
 
 - 👯 I’m looking to collaborate on **Fascinating Projects**
 
