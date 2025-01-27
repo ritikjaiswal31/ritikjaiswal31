@@ -1,7 +1,7 @@
 <h1 align="center">Greetings Everyone 👋, I am Ritik Jaiswal</h1>
 <h3 align="center">Cloud Computing & Virtualization Technology | DevOps | B.Tech CSE from UPES, Dehradun, Uttarakhand</h3>
 
-- 🔭 I have done my **Summer Internship Trainee at PwC - Analytics Insights Launchpad Program**
+- 🔭 **Junior Business Intelligence Analyst | Cloud Server Administrator**
 
 - 🌱 I’m currently learning **Tableau | Alteryx | Cloud Server Administration | Amazon Web Services**
 
