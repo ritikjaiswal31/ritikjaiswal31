@@ -7,10 +7,10 @@ I am a results-driven Junior Business Intelligence Analyst with a strong foundat
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering (Major - Cloud Computing & Virtualization Technology | Minor - DevOps)
 - 🛠️ **Current Role:** Junior Business Intelligence Analyst
-- 🧠 **Learning & Development:** Tableau, Alteryx, AWS, MySQL, Cloud Server Management  
+- 🧠 **Learning & Development:** Problem Solving and Cloud Server Management  
 - 💻 **Software Development Skills:** Django (Python), Bootstrap, React.js, SQLite, C++  
-- 🗂️ **Tools & Technologies:** Tableau, Alteryx, AWS, Python, MySQL, Jenkins, Docker, Git, Linux, Postman  
-- 🤝 **Open to Collaborations:** Always interested in impactful, data-centric and full-stack software projects  
+- 🗂️ **Tools & Technologies:** Tableau, Alteryx, Amazon Web Services (AWS), Python, MySQL, Jenkins, Docker, Git, Linux, Postman  
+- 🤝 **Open to Collaborations:** Always Interested in Impactful, Data-Centric and Software Projects  
 - 🏏 **Fun Fact:** Cricket Enthusiast and Team Player  
 
 <h3 align="left">Connect with me:</h3>
