@@ -1,12 +1,12 @@
 <h1 align="center">Greetings Everyone 👋, I am Ritik Jaiswal</h1>
-<h3 align="center">B.Tech Computer Science and Engineering, University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India</h3>
+<h3 align="center">B.Tech, Computer Science and Engineering, University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India</h3>
 
 🔍 **About Me**
 
 I am a results-driven Junior Business Intelligence Analyst with a strong foundation in Cloud Computing & Virtualization Technology and a keen interest in solving real-world data and software challenges. With hands-on experience Cloud Infrastructure, I thrive at the intersection of Data, Development and Deployment
 
-- 🎓 **Education:** B.Tech in Computer Science and Engineering (Cloud Computing & Virtualization) – UPES, Dehradun  
-- 🛠️ **Current Role:** Junior BI Analyst at AION-TECH Solutions Ltd. | Cloud Server Administrator  
+- 🎓 **Education:** B.Tech in Computer Science and Engineering (Major - Cloud Computing & Virtualization Technology | Minor - DevOps) – UPES, Dehradun  
+- 🛠️ **Current Role:** Junior Business Intelligence Analyst
 - 🧠 **Learning & Development:** Tableau, Alteryx, AWS, MySQL, Cloud Server Management  
 - 💻 **Software Development Skills:** Django (Python), Bootstrap, React.js, SQLite, C++  
 - 🗂️ **Tools & Technologies:** Tableau, Alteryx, AWS, Python, MySQL, Jenkins, Docker, Git, Linux, Postman  
