@@ -1,15 +1,17 @@
 <h1 align="center">Greetings Everyone 👋, I am Ritik Jaiswal</h1>
 <h3 align="center">Cloud Computing & Virtualization Technology | DevOps | B.Tech CSE from UPES, Dehradun, Uttarakhand</h3>
 
-- 🔭 **Junior Business Intelligence Analyst | Cloud Server Administrator**
+🔍 **About Me**
 
-- 🌱 I’m currently learning **Tableau | Alteryx | Cloud Server Administration | Amazon Web Services**
+I am a results-driven Junior Business Intelligence Analyst with a strong foundation in Cloud Computing & Virtualization Technology and a keen interest in solving real-world data and software challenges. With hands-on experience Cloud Infrastructure, I thrive at the intersection of Data, Development and Deployment
 
-- 👯 I’m looking to collaborate on **Fascinating Projects**
-
-- 💬 Ask me about **Agile Methadologies | Jenkins | Docker**
-
-- ⚡ Fun fact **Cricket Enthusiast**
+- 🎓 **Education:** B.Tech in Computer Science and Engineering (Cloud Computing & Virtualization) – UPES, Dehradun  
+- 🛠️ **Current Role:** Junior BI Analyst at AION-TECH Solutions Ltd. | Cloud Server Administrator  
+- 🧠 **Learning & Development:** Tableau, Alteryx, AWS, MySQL, Cloud Server Management  
+- 💻 **Software Development Skills:** Django (Python), Bootstrap, React.js, SQLite, C++  
+- 🗂️ **Tools & Technologies:** Tableau, Alteryx, AWS, Python, MySQL, Jenkins, Docker, Git, Linux, Postman  
+- 🤝 **Open to Collaborations:** Always interested in impactful, data-centric and full-stack software projects  
+- 🏏 **Fun Fact:** Cricket Enthusiast and Team Player  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
