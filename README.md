@@ -5,7 +5,7 @@
 
 I am a results-driven Junior Business Intelligence Analyst with a strong foundation in Cloud Computing & Virtualization Technology and a keen interest in solving real-world data and software challenges. With hands-on experience Cloud Infrastructure, I thrive at the intersection of Data, Development and Deployment
 
-- 🎓 **Education:** B.Tech in Computer Science and Engineering (Major - Cloud Computing & Virtualization Technology | Minor - DevOps)
+- 🎓 **Education:** B.Tech in Computer Science and Engineering (Cloud Computing & Virtualization Technology | DevOps)
 - 🛠️ **Current Role:** Junior Business Intelligence Analyst
 - 🧠 **Learning & Development:** Problem Solving and Cloud Server Management  
 - 💻 **Software Development Skills:** Django (Python), Bootstrap, React.js, SQLite, C++  
