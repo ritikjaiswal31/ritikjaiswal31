@@ -8,7 +8,7 @@ I am a results-driven Junior Business Intelligence Analyst with a strong foundat
 - 🎓 **Education:** B.Tech in Computer Science and Engineering (Cloud Computing & Virtualization Technology | DevOps)
 - 🛠️ **Current Role:** Junior Business Intelligence Analyst
 - 🧠 **Learning & Development:** Problem Solving and Cloud Server Management  
-- 💻 **Software Development Skills:** Django, Bootstrap, React, SQLite, Python, Core Java  
+- 💻 **Software Development Skills:** Java, Spring Boot, Microservices, Django, React, Python 
 - 🗂️ **Tools & Technologies:** Tableau, Alteryx, Amazon Web Services (AWS), Python, MySQL, Jenkins, Docker, Git, Linux, Postman  
 - 🤝 **Open to Collaborations:** Always Interested in Impactful, Data-Centric and Software Projects  
 - 🏏 **Fun Fact:** Cricket Enthusiast and Team Player  
