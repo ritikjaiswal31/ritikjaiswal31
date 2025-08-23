@@ -6,7 +6,7 @@
 I am a results-driven Junior Business Intelligence Analyst with a strong foundation in Cloud Computing & Virtualization Technology and a keen interest in solving real-world data and software challenges. With hands-on experience Cloud Infrastructure, I thrive at the intersection of Data, Development and Deployment
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering (Cloud Computing & Virtualization Technology | DevOps)
-- 🛠️ **Current Role:** Business Intelligence Analyst
+- 🛠️ **Current Role:** BI Analyst | Looking for SDE Opportunities 
 - 🧠 **Learning & Development:** Software Development and Generative AI
 - 💻 **Software Development Skills:** Java, Data Structures and Algorithms, System Design, Python 
 - 🗂️ **Tools & Technologies:** Tableau, Alteryx, Amazon Web Services (AWS), Jenkins, Docker, Git, Linux, Postman  
