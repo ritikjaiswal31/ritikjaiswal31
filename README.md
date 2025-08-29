@@ -3,7 +3,7 @@
 
 🔍 **About Me**
 
-I am a results-driven Junior Business Intelligence Analyst with a strong foundation in Cloud Computing & Virtualization Technology and a keen interest in solving real-world data and software challenges. With hands-on experience Cloud Infrastructure, I thrive at the intersection of Data, Development and Deployment
+I am a results-driven BI Analyst with a strong foundation in Cloud Computing & Virtualization Technology and a keen interest in solving real-world data and software challenges. With hands-on experience Cloud Infrastructure, I thrive at the intersection of Data, Development and Deployment
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering (Cloud Computing & Virtualization Technology | DevOps)
 - 🛠️ **Current Role:** BI Analyst | Looking for SDE Opportunities 
