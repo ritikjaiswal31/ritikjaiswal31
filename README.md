@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in Java, Spring AI, and deeper cloud and distributed system concepts to strengthen my problem-solving and backend expertise.**
 
-- 👯 I am looking to collaborate on **Backend-heavy projects involving Spring Boot, Microservices, REST APIs, Kafka, and fintech or analytics-driven applications.**
-
 - 🤝 I’m looking for help with **System Design, high-scale microservices architecture, and best practices for cloud-native deployments.**
 
 - 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, Kafka, Tableau Server administration, SQL or backend system design fundamentals.**
@@ -15,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritikjaiswal31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritikjaiswal31/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ritikjaiswal31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ritikjaiswal31/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritikjaiswal31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikjaiswal31" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ritikjaiswal31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritikjaiswal31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
