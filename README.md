@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Jaiswal</h1>
 <h3 align="center">B.Tech, Computer Science and Engineering, University of Petroleum and Energy Studies (UPES), Dehradun</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikjaiswal31" alt="ritikjaiswal31" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritikjaiswal31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritikjaiswal31/" height="30" width="40" /></a>
