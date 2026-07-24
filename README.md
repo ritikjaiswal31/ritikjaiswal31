@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Jaiswal</h1>
 <h3 align="center">B.Tech, Computer Science and Engineering, University of Petroleum and Energy Studies (UPES), Dehradun</h3>
 
-- 🔭 I’m currently working on **Building scalable backend systems and enterprise analytics solutions using Java, Spring Boot, Microservices, with a strong focus on performance, security and reliability.**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms in Java, Spring AI, and deeper cloud and distributed system concepts to strengthen my problem-solving and backend expertise.**
-
-- 🤝 I’m looking for help with **System Design, high-scale microservices architecture, and best practices for cloud-native deployments.**
-
-- 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, Kafka, Tableau Server administration, SQL or backend system design fundamentals.**
-
-- ⚡ Fun fact **I actively play cricket, which has helped me build teamwork, discipline and decision-making skills.**
+- I’m currently learning **Data Structures and Algorithms in Java and deeper cloud and distributed system concepts to strengthen my problem-solving and backend expertise.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
