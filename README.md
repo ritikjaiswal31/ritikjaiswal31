@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritik Jaiswal</h1>
+<h1 align="center">Hi, I'm Ritik Jaiswal</h1>
 <h3 align="center">B.Tech, Computer Science and Engineering, University of Petroleum and Energy Studies (UPES), Dehradun</h3>
 
 - I’m currently learning **Data Structures and Algorithms in Java and strengthen my problem-solving and backend development expertise.**
