@@ -26,11 +26,11 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ritikjaiswal31" target="_blank">
+  <a href="https://linkedin.com/in/ritikjaiswal31">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ritikjaiswal31" target="_blank">
+  <a href="https://leetcode.com/u/ritikjaiswal31">
     <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode" />
   </a>
 </p>
