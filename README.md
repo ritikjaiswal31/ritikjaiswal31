@@ -5,7 +5,8 @@
 
 - 💻 Software Engineering professional with a background in backend development
 - ☕ Working with **Java, Spring Framework, and Spring Boot**
-- 🌱 Strengthening **Data Structures & Algorithms** and backend development
+- 🌱 Strengthening **Data Structures & Algorithms** and problem-solving skills
+- 🤖 Learning **Generative AI and Agentic AI**
 - 🎯 Seeking opportunities in **Software Engineering**
 - ☁️ Interested in **Backend Development, Cloud Computing, and Software Engineering**
 
@@ -20,12 +21,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,aws,docker,git,postman" alt="Tech Stack" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikjaiswal31&show_icons=true&include_all_commits=true&hide=issues,contribs&hide_rank=true" alt="Ritik's GitHub Stats" />
 </p>
 
 ### 🤝 Connect with Me
