@@ -12,7 +12,7 @@
 
 ### 🎓 Education
 
-- **B.Tech | Computer Science and Engineering**
+- **B.Tech | Computer Science and Engineering (CSE)**
 - **Major:** Cloud Computing and Virtualization Technology (CCVT)
 - **Minor:** DevOps
 - **University:** University of Petroleum and Energy Studies (UPES)
